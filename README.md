@@ -1,1 +1,0 @@
-# raspberry-pi-opencv-dnn-object-detection
